@@ -236,7 +236,7 @@ ul,li,ol{
     font-weight: bold;
 }
 .right_list span{
-    font-size: 11px;
+    font-size: 12px;
     color: #946666;
 }
 .right_list a{
@@ -249,7 +249,7 @@ ul,li,ol{
     border-bottom: 1px solid #333;
 }
 .research_interest {
-    padding: 10px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
 }
